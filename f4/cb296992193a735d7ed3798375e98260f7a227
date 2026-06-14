@@ -1,0 +1,34 @@
+scarf/scarf/Features/Settings/Views/Components/ModelPickerSheet.swift
+  s_ce6dfc3aded13b::t_44fbd8fd7f29a2 2,73-78
+scarf/scarf/Features/CredentialPools/Views/CredentialPoolsView.swift
+  s_ce6dfc3aded13b::t_b281cc73857115 2,611-616
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/M0cServicesTests.swift
+  s_ce6dfc3aded13b::t_f2d976a54c46d3 570-594
+  s_ce6dfc3aded13b::t_ea9f3f07fe8f6f 455-569
+scarf/Packages/FeatureKit/Tests/FeatureKitTests/FeatureFlagsTests.swift
+  s_ce6dfc3aded13b::t_c25431edb16c66 90-105
+scarf/Packages/ScarfCore/Sources/ScarfCore/Services/MorphAPIClient.swift
+  s_ce6dfc3aded13b::t_3787908bfbe2e5 295-351
+  s_ce6dfc3aded13b::t_9e9183fe9a9b27 1-294,352-408
+scarf/Packages/FeatureKit/Sources/FeatureKit/Feature.swift
+  s_ce6dfc3aded13b::t_0e3183fdb375c5 45-52
+scarf/Packages/ScarfCore/Sources/ScarfCore/Services/ModelCatalogService.swift
+  s_ce6dfc3aded13b::t_720d9949b99296 102-114,128,130,133,137,140,163,198,220-222,326,416,458-463,730-793
+  s_ce6dfc3aded13b::t_cd03cf138eba02 170,270-273,332,346-348,464-470
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "f4cb296992193a735d7ed3798375e98260f7a227",
+  "prompts": {},
+  "sessions": {
+    "s_ce6dfc3aded13b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ebe42-5148-73e3-b345-bb67103f73a4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
