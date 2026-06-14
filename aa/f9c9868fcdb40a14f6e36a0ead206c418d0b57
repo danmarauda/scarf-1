@@ -1,0 +1,46 @@
+"scarf/Scarf iOS/Onboarding/OnboardingRootView.swift"
+  s_bf14146dfc4e5b::t_83cb47da836b4a 71,188-192,196-201,205
+scarf/Packages/ScarfCore/Sources/ScarfCore/Security/OnboardingState.swift
+  s_bf14146dfc4e5b::t_f9d2a11d33a0af 10
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/M2OnboardingTests.swift
+  s_bf14146dfc4e5b::t_ba996d2bb9db39 344-394,397-405
+  s_bf14146dfc4e5b::t_0d6d3a30a40109 395-396
+scarf/scarf/Core/Persistence/ServerRegistry.swift
+  s_bf14146dfc4e5b::t_47e6ac04284fc5 152-182
+scarf/scarf/Features/Servers/ViewModels/AddServerViewModel.swift
+  s_bf14146dfc4e5b::t_1d40225aede218 16-34,133,137,147,154,239,308-324
+  s_bf14146dfc4e5b::t_0aa39fe534630d 134,148-153,242-245
+scarf/scarfTests/ALIASScarfServersImportTests.swift
+  s_bf14146dfc4e5b::t_d036f8ae09dab1 66-114
+"scarf/Scarf iOS/App/ScarfIOSApp.swift"
+  s_bf14146dfc4e5b::t_059bb4747073d7 299-305
+scarf/scarf/Features/Servers/Views/ManageServersView.swift
+  s_bf14146dfc4e5b::t_74c69918709dda 13,56-74,257,281,296,298-305,341-368
+TASKS.md
+  s_bf14146dfc4e5b::t_bb9f1389c9414f 15
+scarf/scarf/Features/Servers/Views/AddServerSheet.swift
+  s_bf14146dfc4e5b::t_1d37082f01dea6 11,13,24-38,63
+scarf/Packages/ScarfCore/Sources/ScarfCore/Security/OnboardingViewModel.swift
+  s_bf14146dfc4e5b::t_ffbf6468bc4b0b 45-49,70,107-111,121-133,241-242,284-285
+"scarf/Scarf iOS/Servers/ServerListView.swift"
+  s_bf14146dfc4e5b::t_25669d5ad4b85a 53-59
+scarf/scarfTests/AddServerViewModelTests.swift
+  s_bf14146dfc4e5b::t_b3e5b5f4bd1c3d 11-60
+  s_bf14146dfc4e5b::t_cae872e0cd3e7f 61-74
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "aaf9c9868fcdb40a14f6e36a0ead206c418d0b57",
+  "prompts": {},
+  "sessions": {
+    "s_bf14146dfc4e5b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ec2a3-4184-7a63-920f-5e96ed7226a6",
+        "model": "gpt-5.5"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
