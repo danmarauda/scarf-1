@@ -1,0 +1,20 @@
+TASKS.md
+  s_d0d4519bdbb245::t_b19da222e79abd 15-16,18
+  s_d0d4519bdbb245::t_5acf147e363944 17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "1676447513edde44f15668e3280429ee493b75bd",
+  "prompts": {},
+  "sessions": {
+    "s_d0d4519bdbb245": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5858308b-26c1-4005-9ba7-8ce6ce0119a9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
