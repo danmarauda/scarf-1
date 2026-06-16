@@ -1,0 +1,22 @@
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/AppleIntelligenceCapabilityTests.swift
+  s_29afe1412031ac::t_180ab3181ff6cd 1-55
+scarf/Packages/ScarfCore/Sources/ScarfCore/Services/AppleIntelligence/OnDeviceIntelligence.swift
+  s_29afe1412031ac::t_dd79d0aa1ecb44 101-102,104
+  s_29afe1412031ac::t_8b6c4650e47b1c 1-100,103,105-136
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "ccb4a8ee689913f0320cd8a93ffcf02bf818e2b9",
+  "prompts": {},
+  "sessions": {
+    "s_29afe1412031ac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4a43af63-55c0-4fb6-8302-f155dd4e375b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
