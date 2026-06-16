@@ -1,0 +1,30 @@
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/ScarfCoreSmokeTests.swift
+  s_29afe1412031ac::t_ee359818cfd4db 280
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/M0dViewModelsTests.swift
+  s_29afe1412031ac::t_264bb78f110194 269
+  s_ce6dfc3aded13b::t_4d6e596ba292c6 161-162,164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "a38a8046c002f96259ac8978a2389043fe2a4beb",
+  "prompts": {},
+  "sessions": {
+    "s_29afe1412031ac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4a43af63-55c0-4fb6-8302-f155dd4e375b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    },
+    "s_ce6dfc3aded13b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ebe42-5148-73e3-b345-bb67103f73a4",
+        "model": "gpt-5.5"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
