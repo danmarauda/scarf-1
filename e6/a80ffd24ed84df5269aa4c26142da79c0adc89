@@ -1,0 +1,24 @@
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/SSHPortForwardArgvTests.swift
+  s_29afe1412031ac::t_aa9931403094bc 1-60
+scarf/Packages/ScarfCore/Sources/ScarfCore/Transport/SSHTransport.swift
+  s_29afe1412031ac::t_67d72945ebf794 157-170
+  s_29afe1412031ac::t_b425a3fe332d54 634-699
+  s_29afe1412031ac::t_ad259e69a7685f 43-47
+  s_29afe1412031ac::t_cb99a57f7cb91c 852-893
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "e6a80ffd24ed84df5269aa4c26142da79c0adc89",
+  "prompts": {},
+  "sessions": {
+    "s_29afe1412031ac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4a43af63-55c0-4fb6-8302-f155dd4e375b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
