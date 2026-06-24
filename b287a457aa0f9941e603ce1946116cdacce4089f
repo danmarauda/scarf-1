@@ -1,0 +1,47 @@
+design/interaction-design.md
+  s_62250ad862108c::t_2cec898d6f7826 1-90
+design/anti-patterns.md
+  s_62250ad862108c::t_2cec898d6f7826 1-91
+design/ux-writing.md
+  s_62250ad862108c::t_2cec898d6f7826 1-93
+design/color-and-contrast.md
+  s_62250ad862108c::t_2cec898d6f7826 1-94
+scarf/Packages/ScarfDesign/Sources/ScarfDesign/ScarfTheme.swift
+  s_62250ad862108c::t_2cec898d6f7826 150-161
+design/motion-design.md
+  s_62250ad862108c::t_2cec898d6f7826 1-98
+CLAUDE.md
+  s_62250ad862108c::t_2cec898d6f7826 3,12-62
+.memory/design/impeccable-integration.md
+  s_62250ad862108c::t_2cec898d6f7826 1-51
+scarf/Packages/ScarfDesign/Sources/ScarfDesign/ScarfTypography.swift
+  s_62250ad862108c::t_2cec898d6f7826 6-7,17-18,20-24,31,33,35,37,40,42,45,48,53
+design/responsive-design.md
+  s_62250ad862108c::t_2cec898d6f7826 1-108
+design/spatial-design.md
+  s_62250ad862108c::t_2cec898d6f7826 1-89
+design/INDEX.md
+  s_62250ad862108c::t_2cec898d6f7826 1-45
+scarf/Packages/ScarfDesign/Sources/ScarfDesign/ScarfComponents.swift
+  s_62250ad862108c::t_2cec898d6f7826 86-87,104,113-127
+design/typography.md
+  s_62250ad862108c::t_2cec898d6f7826 1-94
+design/design-principles.md
+  s_62250ad862108c::t_2cec898d6f7826 1-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b287a457aa0f9941e603ce1946116cdacce4089f",
+  "prompts": {},
+  "sessions": {
+    "s_62250ad862108c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "340dc0b6-84aa-42e1-ab7a-7adad4bf9e89",
+        "model": "claude-fable-5"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+scarf/Packages/ScarfCore/Sources/ScarfCore/Services/FleetAdminService.swift
+  s_29afe1412031ac::t_5e189c68dfae69 191,196-206,210-220
+  s_29afe1412031ac::t_40f715df181d23 129-131,137-138
+  s_29afe1412031ac::t_352a50458e94cc 1-128,132-136,139-190,192-195,207-209,221-267
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/FleetAdminServiceTests.swift
+  s_29afe1412031ac::t_f366a1b730fce4 1-185
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.7",
+  "base_commit_sha": "c40addbdf76736ee8a852f3a64b0811eb9d8e2aa",
+  "prompts": {},
+  "sessions": {
+    "s_29afe1412031ac": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4a43af63-55c0-4fb6-8302-f155dd4e375b",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}

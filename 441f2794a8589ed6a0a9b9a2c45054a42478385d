@@ -1,0 +1,119 @@
+README.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 22-34,208-210,394,404-405,447
+wiki/Hermes-Version-Compatibility.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 80
+.mcp.json
+  s_49aa20df7419c0::t_b702866d4aa0e9 20-29
+tasks/t-8c6da7.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-66
+wiki/Troubleshooting-Sparkle-Update.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-56
+wiki/Slash-Commands.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 7,9,11-36
+releases/v2.10.2/RELEASE_NOTES.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-25
+releases/v2.10.1/RELEASE_NOTES.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-64
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/HermesCapabilitiesTests.swift
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 19-25,288-362,401-416
+templates/awizemann/template-author/staging/AGENTS.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 31
+TASKS.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 8-9,16-18
+.cursor/mcp.json
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-14
+scripts/release.sh
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 56-62,108-131,133-134,137-154,211-226,244-255,289-295
+scarf/scarf/Features/Chat/ViewModels/ChatViewModel.swift
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 133-192,1578
+scarf/scarf/Features/Chat/Views/RichChatMessageList.swift
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 117-128,148,154-156
+scarf/scarf/Resources/BuiltinSkills.bundle/scarf-template-author/SKILL.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 4,424,444,446,462
+wiki/_Sidebar.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 8,21,24-25,29-32,35,41,45,58,63,71-76
+".memory/ops/Release Distribution and Updates.md"
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 17,19,22-23
+wiki/Home.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 11,13-15,36
+tasks/t-2d876e.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-45
+scarf/scarf/Core/Utilities/MarkdownContentView.swift
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 6-16,23-38,40-44
+CLAUDE.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 10-14
+.gitignore
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 83-86
+scarf/scarf/Features/Chat/Views/RichChatView.swift
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 87-95
+scarf/scarf/Features/Chat/Views/RichMessageBubble.swift
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 76-87,89-90,93-123,125-143,146-147,220
+scarf/scarf/Features/Chat/Views/ChatInspectorPane.swift
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 42-54,72-149
+wiki/Release-Notes-Index.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 13
+scarf/scarf.xcodeproj/project.pbxproj
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 560,577,602,619,643,666,689,711,865,879,901,915,933,938,955,960,976,980,996,1000
+scarf/Packages/ScarfCore/Sources/ScarfCore/ViewModels/RichChatViewModel.swift
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 2027-2034
+scarf/scarf/Features/Servers/ViewModels/TestConnectionProbe.swift
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 71-93,95-116
+"scarf/Scarf iOS/Chat/ChatView.swift"
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 149-165,496-500,502,755-761,1604-1620,1851-1863,1871-1880,1884,1888-1889,1891,1996-2002
+code/Modules.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-29
+".memory/ops/Build and Release Workflow.md"
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 20,22,25-27
+.gemini/settings.json
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-26
+.codex/config.toml
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-5
+scarf/scarf/Features/Servers/ViewModels/AddServerViewModel.swift
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 35-47,75,130-132,135
+".memory/ops/Sparkle Key Recovery.md"
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-38
+scarf/scarf/Features/Servers/Views/AddServerSheet.swift
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 114-137
+scarf/scarf/Resources/BuiltinSlashCommands.bundle/scarf-new.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 5,25
+sessions/2026-05-29-we-seem-to-have-a-few-bugs-i-am-using-scarf-now-daily-we-los--f91ce1ba.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-12073
+".memory/architecture/Core Engineering Constraints.md"
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-24
+scarf/Packages/ScarfCore/Sources/ScarfCore/ACP/ACPClient.swift
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 516-537,544,548-561
+tasks/t-7ab110.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-45
+".memory/ops/Releases under iCloud Drive.md"
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-23
+templates/awizemann/template-author/staging/skills/scarf-template-author/SKILL.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 4,424,444,446,462
+wiki/Contributing.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 67-76,82
+wiki/Release-Process.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 41-51,79
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/M4ACPIOSTests.swift
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 174-180,184-209
+AGENTS.md
+  s_49aa20df7419c0::t_b58a2cc6dd364b 1-2,4-7,9-14,16-20,22-28,30-41,43-49,51-56,58-63,65-86,88-119
+tasks/t-82d62d.md
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-75
+".memory/integration/Hermes Version Compatibility Target.md"
+  s_49aa20df7419c0::t_ec9f4f45c18d6c 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "441f2794a8589ed6a0a9b9a2c45054a42478385d",
+  "prompts": {},
+  "sessions": {
+    "s_49aa20df7419c0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e49dd-51e1-7602-b54e-20a32db2be76",
+        "model": "gpt-5.5"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}

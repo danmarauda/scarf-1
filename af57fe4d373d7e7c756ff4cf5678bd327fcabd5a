@@ -1,0 +1,41 @@
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/ALIASHermesImportContractTests.swift
+  s_49aa20df7419c0::t_5c1fcd657616c1 1-78
+scripts/hermes-client-deploy.sh
+  s_49aa20df7419c0::t_5c1fcd657616c1 1-246
+docs/APPLE_27_FEATURE_KB.md
+  s_49aa20df7419c0::t_5c1fcd657616c1 1-660
+scarf/scarfTests/ALIASScarfServersImportTests.swift
+  s_49aa20df7419c0::t_5c1fcd657616c1 1-66
+scarf/scarf/Features/Settings/Views/Components/ModelPickerSheet.swift
+  s_49aa20df7419c0::t_10fb06abdb5250 69,73,107-109,610-611,659-663,749-759,772-779,793
+scarf/scarfTests/LiveModelCatalogServiceTests.swift
+  s_49aa20df7419c0::t_5c1fcd657616c1 1-114
+site/landing/.gitignore
+  s_49aa20df7419c0::t_5c1fcd657616c1 1
+"scarf/Scarf iOS/Projects/ProjectsListView.swift"
+  s_49aa20df7419c0::t_10fb06abdb5250 138-143
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/HermesClientDeployPlanTests.swift
+  s_49aa20df7419c0::t_5c1fcd657616c1 1-97
+scarf/scarf/Core/Persistence/ServerRegistry.swift
+  s_49aa20df7419c0::t_10fb06abdb5250 59-63
+scarf/scarf/Core/Services/LiveModelCatalogService.swift
+  s_49aa20df7419c0::t_5c1fcd657616c1 1-174
+scarf/Packages/ScarfCore/Sources/ScarfCore/Models/HermesClientDeployPlan.swift
+  s_49aa20df7419c0::t_5c1fcd657616c1 1-373
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "af57fe4d373d7e7c756ff4cf5678bd327fcabd5a",
+  "prompts": {},
+  "sessions": {
+    "s_49aa20df7419c0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019e49dd-51e1-7602-b54e-20a32db2be76",
+        "model": "gpt-5.5"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}

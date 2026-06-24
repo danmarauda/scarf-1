@@ -1,0 +1,21 @@
+"scarf/Scarf iOS/Cron/CronListView.swift"
+  s_d0d4519bdbb245::t_b580e0c1ed51c2 168,184-188,191-199,219-221
+  s_d0d4519bdbb245::t_f331518d306e6d 272-291
+  s_d0d4519bdbb245::t_68ccf72b835447 347,352-358
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "76b68087fb7f30b0d77f2792f5ff1d27b38d491e",
+  "prompts": {},
+  "sessions": {
+    "s_d0d4519bdbb245": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5858308b-26c1-4005-9ba7-8ce6ce0119a9",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
