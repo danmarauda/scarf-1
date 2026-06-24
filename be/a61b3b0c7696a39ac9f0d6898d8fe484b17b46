@@ -1,0 +1,61 @@
+scarf/scarf/Features/Tools/ViewModels/ToolsViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 13
+scarf/Packages/ScarfCore/Sources/ScarfCore/ViewModels/SkillsViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 14
+scarf/docs/remediation/epics/epic-01-S-01.1-report.md
+  s_ccb733b0b34c30::t_aa35b619dc3f63 1-166
+scarf/Packages/ScarfCore/Sources/ScarfCore/ViewModels/LogsViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 4
+scarf/Packages/ScarfCore/Sources/ScarfCore/ViewModels/InsightsViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 73
+scarf/scarf/Features/Memory/ViewModels/MemoryViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 4
+scarf/scarf/Features/Profiles/ViewModels/ProfilesViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 13
+scarf/scarf/Features/Webhooks/ViewModels/WebhooksViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 14
+scarf/Packages/ScarfCore/Sources/ScarfCore/ViewModels/ActivityViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 8
+scarf/scarf/Features/Dashboard/ViewModels/DashboardViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 4
+scarf/scarf/Features/Personalities/ViewModels/PersonalitiesViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 14
+scarf/Packages/ScarfCore/Sources/ScarfCore/ViewModels/RichChatViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 131
+scarf/scarf/Features/Sessions/ViewModels/SessionsViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 13
+scarf/scarf/Navigation/AppCoordinator.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 106
+scarf/scarf/Features/Cron/ViewModels/CronViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 6
+scarf/scarf/Features/Health/ViewModels/HealthViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 43
+scarf/scarf/Features/MCPServers/ViewModels/MCPServersViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 4
+scarf/scarf/Features/Chat/ViewModels/ChatViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 7
+scarf/scarf/Features/Plugins/ViewModels/PluginsViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 19
+scarf/scarf/Features/QuickCommands/ViewModels/QuickCommandsViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 14
+scarf/scarf/Features/MCPServers/ViewModels/MCPServerEditorViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 4
+scarf/scarf/Features/Settings/ViewModels/SettingsViewModel.swift
+  s_ccb733b0b34c30::t_d60a9712bb2a8a 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.11",
+  "base_commit_sha": "bea61b3b0c7696a39ac9f0d6898d8fe484b17b46",
+  "prompts": {},
+  "sessions": {
+    "s_ccb733b0b34c30": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f184ae79-5eff-4b13-9a94-9a004776c9e3",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
