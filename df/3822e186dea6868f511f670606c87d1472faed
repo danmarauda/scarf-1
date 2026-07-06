@@ -1,0 +1,24 @@
+.gitignore
+  s_bf14146dfc4e5b::t_8d778ad0db90bd 65-66
+  s_bf14146dfc4e5b::t_484b1aa6a8194e 61-64
+.codex/config.toml
+  s_bf14146dfc4e5b::t_a83b350caf90d3 1-5
+.mcp.json
+  s_bf14146dfc4e5b::t_ff7fa0ce53cedb 20-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "df3822e186dea6868f511f670606c87d1472faed",
+  "prompts": {},
+  "sessions": {
+    "s_bf14146dfc4e5b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019ec2a3-4184-7a63-920f-5e96ed7226a6",
+        "model": "gpt-5.5"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
