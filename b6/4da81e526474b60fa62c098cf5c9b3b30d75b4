@@ -1,0 +1,19 @@
+scarf/Packages/ScarfCore/Sources/ScarfCore/Transport/ProcessPipeDrainer.swift
+  s_3111b811f6e565::t_efe626eadfcf02 12-17,58,64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "b64da81e526474b60fa62c098cf5c9b3b30d75b4",
+  "prompts": {},
+  "sessions": {
+    "s_3111b811f6e565": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06f2d-688f-7b52-ada8-90eddb5bc76a",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
