@@ -1,0 +1,149 @@
+scarf/scarf/Features/Settings/ViewModels/SettingsViewModel.swift
+  s_ce07347c02c14e::t_e35aa688f0b8c3 88-92
+  s_3111b811f6e565::t_1e39c1badb9554 839-845
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/RealtimeTokenMinterTests.swift
+  s_ce07347c02c14e::t_973019aea64147 92-96
+  s_ce07347c02c14e::t_3a8ccf2bf84ed4 1-87,101-191
+  s_ce07347c02c14e::t_d41bc504341bbd 98-100
+  s_ce07347c02c14e::t_6748759507e649 88-90
+  s_ce07347c02c14e::t_2ea7889aa02dd6 97
+  s_ce07347c02c14e::t_c5265da6517f47 91
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/RealtimeVoiceServiceTests.swift
+  s_ce07347c02c14e::t_3333524aedebc5 173
+  s_ce07347c02c14e::t_be5a90a8eb6958 213
+  s_ce07347c02c14e::t_eba580d9cb3ff2 156,168-170,183
+  s_ce07347c02c14e::t_d60e2cf801eeab 306
+  s_ce07347c02c14e::t_3773655c494544 33
+  s_ce07347c02c14e::t_f9aa39277acfa7 23
+  s_ce07347c02c14e::t_5a8d60b8540b10 146,148
+  s_ce07347c02c14e::t_04aa62dcd46ef6 149
+  s_ce07347c02c14e::t_bb27333c8fdf7b 145
+  s_ce07347c02c14e::t_40f52e662844f7 222
+  s_ce07347c02c14e::t_c326cdd2fa9c5e 120-121,128,136-143,147
+  s_ce07347c02c14e::t_dfebd7531ee2df 150-155,157-167,171-172,174-182
+  s_ce07347c02c14e::t_d81dac0d2ffa4b 1-22,24-32,34-119,122-127,129-135,144,184-212,214-221,223-305,307-354
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/RealtimeTokenMinter.swift
+  s_ce07347c02c14e::t_b75dec9fd4fcf6 1-255
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/RealtimeVoicePhaseTests.swift
+  s_ce07347c02c14e::t_f851a942236364 1-124
+scarf/scarf/Features/Settings/Views/Tabs/VoiceTab.swift
+  s_93c07de09779c4::t_7484ae1d33635f 11-22,52-60,78-88
+scarf/Packages/ScarfCore/Sources/ScarfCore/Models/HermesConfig.swift
+  s_3111b811f6e565::t_32928ac7911224 294-307,365-374,402-405,418-422,444-447,467-470,493-497
+scarf/scarf/Features/VoiceLive/VoiceLiveView.swift
+  s_ce07347c02c14e::t_442b44001b76dd 3,6,8,11-17,19-36,38,42-58,60-67,70-83,85-132,134-135,137,139-146,151-163,168-181
+  s_3111b811f6e565::t_e14f3db8af15c3 184
+  s_3111b811f6e565::t_ea2f86f9a6ca88 1-2,4-5,7,9-10,37,39-41,59,68-69,84,133,136,138,147-150,164-167,182-183
+  s_ce07347c02c14e::t_a60279a9454da4 18
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/OpenAIRealtimeVoiceService.swift
+  s_ce07347c02c14e::t_d54ac026b33368 4-19
+  s_ce07347c02c14e::t_df594e304c8bda 133
+  s_ce07347c02c14e::t_347bf954a6534f 294-295
+  s_ce07347c02c14e::t_15e4b68aa7ed21 1-3,20-54,59-132,134-202,204-234,240-241,249-293,296,312-314
+  s_ce07347c02c14e::t_1c36ecc6c3fcd8 297-311
+  s_ce07347c02c14e::t_66760739f01df1 236-239
+  s_ce07347c02c14e::t_cf931cefc7e6dc 235,242-248
+  s_ce07347c02c14e::t_c819d265564ad6 203
+  s_ce07347c02c14e::t_1b6476fb5ce68f 55-58
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/RealtimeVoiceModels.swift
+  s_ce07347c02c14e::t_6e478caad5bf48 1-12,18,20,22-28,31-33,35,37-39,41-50,55,57-236
+  s_ce07347c02c14e::t_32b77389a674ce 13-17,19,21,29-30,34,36,40,51-54,56
+scarf/scarf/Features/Chat/Views/RichChatInputBar.swift
+  s_ce07347c02c14e::t_033d12a13bd920 315-317,319
+  s_ce07347c02c14e::t_72d8a2a42d18e1 42,135-138,310-314,318,320-333
+scarf/scarf/scarfApp.swift
+  s_3111b811f6e565::t_055fb51328408f 512-517
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/RealtimeEventDecodingTests.swift
+  s_ce07347c02c14e::t_3cc930c02e9b1b 1-149,152,161-164,166-167,169,187-193,195-211
+  s_ce07347c02c14e::t_7874e4857528a1 153-160,170-177,182-186
+  s_ce07347c02c14e::t_363553ad751906 150-151,165,178-181,194
+  s_ce07347c02c14e::t_09c269c6be9ca3 168
+scarf/Packages/ScarfCore/Sources/ScarfCore/Services/HermesCapabilities.swift
+  s_3111b811f6e565::t_265e90812598e7 2280-2284
+scarf/scarf/Features/Chat/Views/ChatView.swift
+  s_ce07347c02c14e::t_ef732bad666298 419
+  s_ce07347c02c14e::t_a2fe8664eff5f3 15,103-105,420-429
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/RealtimeWireEvents.swift
+  s_22a6c6ac0ba389::t_c2341a56e22737 1-150,154-160,164,196-214,218-234,236,238-254
+  s_ce07347c02c14e::t_99dd1ed7ae9211 235
+  s_ce07347c02c14e::t_a51b8d99b5eb36 161
+  s_ce07347c02c14e::t_b71bbeeb5085ca 151-153,162
+  s_ce07347c02c14e::t_9895234d5bdc09 215
+  s_ce07347c02c14e::t_b72ad26a205364 163,165-195,217
+  s_ce07347c02c14e::t_babf81862525ba 237
+  s_ce07347c02c14e::t_3c6c9bd92c344f 216
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/URLSessionRealtimeSocket.swift
+  s_ce07347c02c14e::t_b5b42d98f890a1 1-111
+scarf/Packages/ScarfCore/Sources/ScarfCore/Parsing/HermesConfig+YAML.swift
+  s_ce07347c02c14e::t_57716d321734dc 382
+  s_3111b811f6e565::t_58af8fed12c802 356-363,383-386
+scarf/Packages/ScarfCore/Sources/ScarfCore/Services/HermesTTSCache.swift
+  s_3111b811f6e565::t_261565ca44fae7 1-193
+scarf/scarf/Features/VoiceLive/VoiceLiveAudioEngine.swift
+  s_f033226a235c9c::t_e72f2e6646403f 1-178
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/RealtimeAudioMath.swift
+  s_ce07347c02c14e::t_89004d61273759 1-130
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/RealtimeVoiceService.swift
+  s_ce07347c02c14e::t_b3e9156825f812 1-63
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/RealtimeAudioMathTests.swift
+  s_3111b811f6e565::t_caf12749c4bd89 1-131
+scarf/scarf/Core/Services/MessageSpeechService.swift
+  s_3111b811f6e565::t_2de4c99902cbd6 5,9-10,12-29,42-48,51-61,63-71,77-87,91-92,98-115,119-125,134-216,219-231
+scarf/Packages/ScarfCore/Sources/ScarfCore/Services/HermesSpeechService.swift
+  s_3111b811f6e565::t_9e952eb8458cb4 1-535
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/HermesSpeechServiceTests.swift
+  s_ce07347c02c14e::t_0392b3e6d0a3dd 82
+  s_3111b811f6e565::t_0e9c7399f3df04 1-69,71-81,83-475
+  s_ce07347c02c14e::t_363348f1c4f8c3 70
+scarf/scarf/Features/VoiceLive/VoiceLiveViewModel.swift
+  s_ce07347c02c14e::t_037ba1953c58e4 206,210-222,224,226
+  s_f033226a235c9c::t_5dcd6be09cc101 1-205,207-209,223,225,227-230
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "589f7a5a7ef834d5773d8ff1b42518fe5c6387b4",
+  "prompts": {},
+  "sessions": {
+    "s_22a6c6ac0ba389": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "328f33d2-c54c-4334-af53-ae235ddcc2be",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    },
+    "s_3111b811f6e565": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06f2d-688f-7b52-ada8-90eddb5bc76a",
+        "model": "gpt-reserve"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    },
+    "s_93c07de09779c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3363a5ab-642c-49f0-b0fe-5e00debf6327",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    },
+    "s_ce07347c02c14e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e483f9ee-9350-49a2-952a-32a2d64dc229",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": null
+    },
+    "s_f033226a235c9c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-aws1-coder-21977d57648ed051",
+        "model": "unknown"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
