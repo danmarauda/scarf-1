@@ -1,0 +1,133 @@
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/RealtimeAudioMath.swift
+  s_ce07347c02c14e::t_89004d61273759 1-130
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/URLSessionRealtimeSocket.swift
+  s_ce07347c02c14e::t_b5b42d98f890a1 1-111
+scarf/scarf/Features/VoiceLive/VoiceLiveCoordinator.swift
+  s_93c07de09779c4::t_5d27df77506b3a 1-236
+scarf/scarf/Features/Settings/ViewModels/SettingsViewModel.swift
+  s_ce07347c02c14e::t_e35aa688f0b8c3 88-92
+  s_3111b811f6e565::t_1e39c1badb9554 839-845
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/RealtimeTokenMinterTests.swift
+  s_ce07347c02c14e::t_c5265da6517f47 91
+  s_ce07347c02c14e::t_6748759507e649 88-90
+  s_ce07347c02c14e::t_973019aea64147 92-96
+  s_ce07347c02c14e::t_3a8ccf2bf84ed4 1-87,101-191
+  s_ce07347c02c14e::t_2ea7889aa02dd6 97
+  s_ce07347c02c14e::t_d41bc504341bbd 98-100
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/RealtimeVoiceModels.swift
+  s_ce07347c02c14e::t_6e478caad5bf48 1-230
+scarf/Packages/ScarfCore/Sources/ScarfCore/Voice/VoiceLiveSession.swift
+  s_3111b811f6e565::t_74069df949643a 1-87
+scarf/Packages/ScarfCore/Sources/ScarfCore/Services/HermesCapabilities.swift
+  s_3111b811f6e565::t_265e90812598e7 2280-2284
+scarf/Packages/ScarfCore/Sources/ScarfCore/Models/HermesConfig.swift
+  s_3111b811f6e565::t_32928ac7911224 294-307,365-374,402-405,418-422,444-447,467-470,493-497
+scarf/scarf/Features/Settings/Views/Tabs/VoiceTab.swift
+  s_93c07de09779c4::t_7484ae1d33635f 11-22,52-60,78-88
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/RealtimeEventDecodingTests.swift
+  s_ce07347c02c14e::t_3cc930c02e9b1b 1-205
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/HermesSpeechServiceTests.swift
+  s_ce07347c02c14e::t_363348f1c4f8c3 70
+  s_3111b811f6e565::t_0e9c7399f3df04 1-69,71-81,83-475
+  s_ce07347c02c14e::t_0392b3e6d0a3dd 82
+scarf/scarf/scarfApp.swift
+  s_3111b811f6e565::t_055fb51328408f 512-517
+scarf/scarf/Features/VoiceLive/VoiceLiveAudioEngine.swift
+  s_f033226a235c9c::t_e72f2e6646403f 1-181
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/RealtimeWireEvents.swift
+  s_22a6c6ac0ba389::t_c2341a56e22737 1-261
+scarf/scarf/Features/Chat/Views/RichChatInputBar.swift
+  s_ce07347c02c14e::t_033d12a13bd920 315-317,319
+  s_ce07347c02c14e::t_72d8a2a42d18e1 42,135-138,310-314,318,320-333
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/OpenAIRealtimeVoiceService.swift
+  s_ce07347c02c14e::t_15e4b68aa7ed21 1-287
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/RealtimeVoicePhaseTests.swift
+  s_ce07347c02c14e::t_f851a942236364 1-124
+scarf/scarf/Features/Chat/Views/ChatView.swift
+  s_ce07347c02c14e::t_a2fe8664eff5f3 15,103-105,420-429
+  s_ce07347c02c14e::t_ef732bad666298 419
+scarf/Packages/ScarfCore/Sources/ScarfCore/Services/HermesTTSCache.swift
+  s_3111b811f6e565::t_261565ca44fae7 1-193
+scarf/scarf/Core/Services/MessageSpeechService.swift
+  s_3111b811f6e565::t_2de4c99902cbd6 5,9-10,12-29,42-48,51-61,63-71,77-87,91-92,98-115,119-125,134-216,219-231
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/RealtimeAudioMathTests.swift
+  s_3111b811f6e565::t_caf12749c4bd89 1-131
+scarf/Packages/ScarfCore/Sources/ScarfCore/Services/HermesSpeechService.swift
+  s_3111b811f6e565::t_9e952eb8458cb4 1-535
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/VoiceLiveSessionTests.swift
+  s_e9fceacf20f329::t_1cebcf84762132 1-42
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/RealtimeTokenMinter.swift
+  s_ce07347c02c14e::t_b75dec9fd4fcf6 1-255
+scarf/Packages/ScarfCore/Sources/ScarfCore/Parsing/HermesConfig+YAML.swift
+  s_ce07347c02c14e::t_57716d321734dc 382
+  s_3111b811f6e565::t_58af8fed12c802 356-363,383-386
+scarf/scarf/Features/VoiceLive/VoiceLiveViewModel.swift
+  s_f033226a235c9c::t_5dcd6be09cc101 1-219
+scarf/scarf/Features/VoiceLive/VoiceLiveView.swift
+  s_ce07347c02c14e::t_442b44001b76dd 3,6,8,11-17,19-36,38,42-58,60-67,70-83,85-132,134-135,137,139-146,151-163,168-181
+  s_3111b811f6e565::t_e14f3db8af15c3 184
+  s_3111b811f6e565::t_ea2f86f9a6ca88 1-2,4-5,7,9-10,37,39-41,59,68-69,84,133,136,138,147-150,164-167,182-183
+  s_ce07347c02c14e::t_a60279a9454da4 18
+scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/RealtimeVoiceService.swift
+  s_ce07347c02c14e::t_b3e9156825f812 1-63
+scarf/scarf/Features/Chat/ViewModels/ChatViewModel.swift
+  s_93c07de09779c4::t_1f87dbbb3559d5 145-148,1423-1426
+scarf/Packages/ScarfCore/Tests/ScarfCoreTests/RealtimeVoiceServiceTests.swift
+  s_ce07347c02c14e::t_d81dac0d2ffa4b 1-313
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8b497d9a0376fabc055f53fafde2f2188a4c6483",
+  "prompts": {},
+  "sessions": {
+    "s_22a6c6ac0ba389": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "328f33d2-c54c-4334-af53-ae235ddcc2be",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    },
+    "s_3111b811f6e565": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06f2d-688f-7b52-ada8-90eddb5bc76a",
+        "model": "gpt-reserve"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    },
+    "s_93c07de09779c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3363a5ab-642c-49f0-b0fe-5e00debf6327",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    },
+    "s_ce07347c02c14e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e483f9ee-9350-49a2-952a-32a2d64dc229",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": null
+    },
+    "s_e9fceacf20f329": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-aws2-coder-0c5d594733953a59",
+        "model": "unknown"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    },
+    "s_f033226a235c9c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-aws1-coder-21977d57648ed051",
+        "model": "unknown"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
