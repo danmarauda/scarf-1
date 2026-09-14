@@ -1,0 +1,56 @@
+scarf/Packages/ScarfIOS/Tests/ScarfIOSTests/PushToTalkControllerTests.swift
+  s_ce07347c02c14e::t_7621f44c4aee6e 170-172
+  s_ce07347c02c14e::t_b4307d7f35d1bc 6-13,15-19,21-24,26-28,30-33,35-37,39,41,44,50,53-54,58,85,87-92,94-95,97-102,105,107-111,113-118,121-124,126,128-141,143,145-152,169,183-184,205,208-209,317
+  s_ce07347c02c14e::t_f700de221be934 1-5,14,20,25,29,34,38,40,45,84,86,93,96,103-104,106,112,119-120,125,127,142,144,153-168,173-182,185-204,206-207,210-316,318-408
+  s_ce07347c02c14e::t_5d9fc79c529bf8 42-43,46-49,51-52,55-57,59-83
+scarf/Packages/ScarfIOS/Sources/ScarfIOS/Speech/OnDeviceDictation.swift
+  s_ce07347c02c14e::t_22c262c7be8f64 101
+  s_ce07347c02c14e::t_030a0e02e02f0f 132
+  s_ce07347c02c14e::t_9614a4a907641d 1-100,102-131,133-138,140-141,143-207
+  s_ce07347c02c14e::t_f35fd88a1b42f7 139,142
+scarf/scarf/Features/VoiceLive/VoiceLiveView.swift
+  s_3111b811f6e565::t_ea2f86f9a6ca88 1-2,4-5,7,9-11,38,40-42,60,69-70,85,134,137,139,148-151,165-168,183-184
+  s_ce07347c02c14e::t_a60279a9454da4 19
+  s_ce07347c02c14e::t_442b44001b76dd 3,6,8,12-18,20-37,39,43-59,61-68,71-84,86-133,135-136,138,140-147,152-164,169-182
+  s_3111b811f6e565::t_e14f3db8af15c3 185-187
+scarf/Packages/ScarfIOS/Sources/ScarfIOS/Speech/PushToTalkController.swift
+  s_ce07347c02c14e::t_0c2d6ce06511ac 9
+  s_ce07347c02c14e::t_b54d04354ef7ed 61
+  s_ce07347c02c14e::t_6c32b054642dd8 1-8,10-60,62-87,89-120,122-138,140-284
+  s_ce07347c02c14e::t_51902cdf60e65f 88
+  s_ce07347c02c14e::t_ed05a5ffea49fd 139
+  s_ce07347c02c14e::t_b90f16b934be27 121
+"scarf/Scarf iOS/Info.plist"
+  s_ce07347c02c14e::t_e2735bcaf70061 10-13
+"scarf/Scarf iOS/Chat/ChatView.swift"
+  s_ce07347c02c14e::t_a5fbe9d0613ea4 808-812
+  s_ce07347c02c14e::t_bd865315176772 846-991
+  s_ce07347c02c14e::t_70be882e54b1e4 1780-1791
+  s_ce07347c02c14e::t_de29b0885ceab1 627-630,643-651
+  s_ce07347c02c14e::t_d5469ed951f1f6 47-57,60-65
+  s_ce07347c02c14e::t_d2f396aa780064 66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "423378588899e2463911529c68dade7f081a2712",
+  "prompts": {},
+  "sessions": {
+    "s_3111b811f6e565": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06f2d-688f-7b52-ada8-90eddb5bc76a",
+        "model": "gpt-reserve"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    },
+    "s_ce07347c02c14e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e483f9ee-9350-49a2-952a-32a2d64dc229",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
