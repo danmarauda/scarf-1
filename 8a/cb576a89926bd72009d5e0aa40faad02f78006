@@ -7,6 +7,7 @@ scarf/Packages/ScarfCore/Sources/ScarfCore/Models/HermesConfig.swift
   s_3111b811f6e565::t_32928ac7911224 294-307,365-374,402-405,418-422,444-447,467-470,493-497
 scarf/Packages/ScarfCore/Sources/ScarfCore/Parsing/HermesConfig+YAML.swift
   s_3111b811f6e565::t_58af8fed12c802 356-363,383-386
+  s_ce07347c02c14e::t_57716d321734dc 382
 scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/RealtimeAudioMath.swift
   s_ce07347c02c14e::t_89004d61273759 1-130
 scarf/Packages/ScarfCore/Sources/ScarfCore/Realtime/RealtimeTokenMinter.swift
@@ -29,6 +30,7 @@ scarf/scarf/Features/Chat/ViewModels/ChatViewModel.swift
   s_93c07de09779c4::t_1f87dbbb3559d5 145-148,1423-1426
 scarf/scarf/Features/Settings/ViewModels/SettingsViewModel.swift
   s_3111b811f6e565::t_1e39c1badb9554 839-845
+  s_ce07347c02c14e::t_e35aa688f0b8c3 88-92
 scarf/scarf/Features/Settings/Views/Tabs/VoiceTab.swift
   s_93c07de09779c4::t_7484ae1d33635f 11-22,52-60,78-88
 scarf/scarf/Features/VoiceLive/VoiceLiveCoordinator.swift
