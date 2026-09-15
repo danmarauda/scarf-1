@@ -1,0 +1,27 @@
+scarf/scarf/Features/VoiceLive/VoiceLiveViewModel.swift
+  s_ce07347c02c14e::t_a2b8ef683c414d 195,197-202
+  s_ce07347c02c14e::t_6dbd3a1c979af8 23-29
+  s_ce07347c02c14e::t_c2d57cff51c702 139-146,158,161,164,167-169,174-175,183-194
+  s_ce07347c02c14e::t_330b873a7016a1 196
+scarf/scarf/Features/VoiceLive/VoiceLiveView.swift
+  s_ce07347c02c14e::t_b0f16cb344024f 53,60-64,67-71
+  s_ce07347c02c14e::t_fe07bf3e08658b 160-195
+  s_ce07347c02c14e::t_ef860e6de89b9f 14
+  s_ce07347c02c14e::t_c619d154f0c10a 159
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ea9babc874ccc63d5df728f08bf6480fdf8ebc2c",
+  "prompts": {},
+  "sessions": {
+    "s_ce07347c02c14e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e483f9ee-9350-49a2-952a-32a2d64dc229",
+        "model": "glm-5.3-flash"
+      },
+      "human_author": "danmarauda <143896437+danmarauda@users.noreply.github.com>"
+    }
+  }
+}
